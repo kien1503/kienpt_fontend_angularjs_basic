@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TemplateCRUDHibernate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TemplateCRUDHibernate</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hangnt169-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TemplateCRUDHibernate:war exploded" />
+    </root>
+  </artifact>
+</component>
